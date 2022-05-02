@@ -1,0 +1,19 @@
+.news{
+border:1px solid black;
+width:250px;
+text-align: center;
+padding-top: 20px;
+cursor: pointer;
+}
+
+.image{
+    width:150px;
+    height:150px;
+}
+
+#results{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap:15px;
+}

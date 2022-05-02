@@ -1,0 +1,22 @@
+#navbar{
+    display:flex;
+    justify-content: left;
+    align-items: center;
+    background-color: antiquewhite;
+    height:70px;
+}
+
+#home{
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+#search_input{
+    height:40px;
+    width:50%;
+    border:2px solid black;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-left: 20%;
+    padding-left: 10px;
+}
